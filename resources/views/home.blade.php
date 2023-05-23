@@ -19,6 +19,9 @@
                 </div>
             </div>
             @endforeach
+            <div class="main_button d-flex justify-center">
+                <input class="btn btn-primary text-center text-white rounded-0 shadow">
+            </div>
         </div>
     </div>
 </div>
