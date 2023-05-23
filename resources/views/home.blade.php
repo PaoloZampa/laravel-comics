@@ -11,7 +11,7 @@
                     <img class="img-fluid card-img-top" src="{{ $comic['thumb'] }}" alt="{{ $comic['title'] }}">
                     <div class="card-body">
                         <h4 class="card-title">
-                            {{ $comic['title'] }}
+                            {{ $comic['series'] }}
                         </h4>
                     </div>
                 </div>

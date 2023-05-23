@@ -1,1 +1,6 @@
 @import '~bootstrap/scss/bootstrap';
+
+.jumbotron img{
+    height: 400px;
+    object-fit: fill;
+}
