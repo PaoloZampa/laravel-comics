@@ -3,7 +3,9 @@
 @section('content')
 <div class="comics">
     <div class="container">
-        <h2 class="my-4">Tutti i prodotti</h2>
+        <span class="title">
+            <h1 class="text-uppercase text-white bg-primary ">current series</h1>
+        </span>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4 g-4">
             @foreach ($comics as $comic)
             <div class="col">

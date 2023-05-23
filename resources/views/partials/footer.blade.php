@@ -1,5 +1,5 @@
 <div class="row row-cols-5">
-    <div class="col">
+    <div class="col p-0">
         <div class="ul">
             <li>><a href="">lorem</a></li>
             <li>><a href="">Porc</a></li>
@@ -11,7 +11,7 @@
             <li>><a href="">asfasf</a></li>
         </div>
     </div>
-    <div class="col">
+    <div class="col p-0">
         <div class="ul">
             <li>><a href="">lorem</a></li>
             <li>><a href="">Porc</a></li>
@@ -23,7 +23,7 @@
             <li>><a href="">asfasf</a></li>
         </div>
     </div>
-    <div class="col">
+    <div class="col p-0">
         <div class="ul">
             <li>><a href="">lorem</a></li>
             <li>><a href="">Porc</a></li>
@@ -35,7 +35,7 @@
             <li>><a href="">asfasf</a></li>
         </div>
     </div>
-    <div class="col">
+    <div class="col p-0">
         <div class="ul">
             <li>><a href="">lorem</a></li>
             <li>><a href="">Porc</a></li>
@@ -47,7 +47,7 @@
             <li>><a href="">asfasf</a></li>
         </div>
     </div>
-    <div class="col">
+    <div class="col p-0">
         <div class="ul">
             <li>><a href="">lorem</a></li>
             <li>><a href="">Porc</a></li>
