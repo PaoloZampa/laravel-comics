@@ -1,8 +1,4 @@
-<div class="top_line bg-primary">
-
-</div>
-
-<section class="my_nav">
+<header class="my_nav">
     <div class="container w-75">
         <nav class="navbar navbar-expand-lg navbar-light py-4">
             <div class="logo mx-3">
@@ -40,10 +36,10 @@
                     <a class="nav-link" href="#">Link 10</a>
                 </li>
             </ul>
-            <form class="form-inline ml-auto d-flex">
+            <form class="form-inline ml-auto d-flex ms-3">
                 <input class="form-control mr-sm-2 border-0 shadow" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn border-0" type="submit">Search</button>
             </form>
         </nav>
     </div>
-</section>
+</header>
